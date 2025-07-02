@@ -1,6 +1,8 @@
 # Fork-Play
 An Interactive application to create a collaborative and fun experience, with the thrill of "matching" adding excitement to date night planning!
 
+![](public/App_snapshot.png)
+
 ## Concept:
 
 Couples often struggle to decide where to eat. Both partners swipe through restaurant options in their area. Once both partners swipe right (i.e., approve) on the same restaurant, it’s a match, and they can go dine there! This app could take the frustration out of deciding where to eat by making it a collaborative and fun experience, with the thrill of "matching" adding excitement to date night planning!
