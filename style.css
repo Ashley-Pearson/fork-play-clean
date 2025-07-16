@@ -73,3 +73,17 @@ body, html {
 .get-started {
   margin-top: 0;            /* kill extra top gap */
 }
+/* === ForkPlay “about-app” sub-headline === */
+.about-app {
+  font-family: 'Quicksand', sans-serif;     /* flirty + legible */
+  font-weight: 600;                         /* gives it some punch */
+  font-size: clamp(1rem, 1.5vw + 0.3rem, 1.5rem);
+
+  color: #fff8eb;                           /* same creamy white */
+  text-shadow: 0 2px 5px rgba(0,0,0,.25);   /* keeps it readable */
+
+  text-align: center;
+  max-width: 60ch;                          /* tidy line length */
+  margin: 0 auto 2.25rem;                   /* space below */
+  line-height: 1.35;
+}
