@@ -1,7 +1,7 @@
 # Fork-Play
 An Interactive app to create a collaborative and fun experience, with the thrill of "matching" adding excitement to date night planning!
 
-![](public/App_snapshot.png)
+![](front-end/App_snapshot.png)
 
 ## Concept:
 
