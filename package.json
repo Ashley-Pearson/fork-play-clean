@@ -1,0 +1,26 @@
+{
+  "name": "my-app-fork-play",
+  "version": "1.0.0",
+  "description": "An Interactive app to create a collaborative and fun experience, with the thrill of \"matching\" adding excitement to date night planning!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashley-Pearson/fork-play-clean.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashley-Pearson/fork-play-clean/issues"
+  },
+  "homepage": "https://github.com/Ashley-Pearson/fork-play-clean#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "uuid": "^11.1.0"
+  }
+}
